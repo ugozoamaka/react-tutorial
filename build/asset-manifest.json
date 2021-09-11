@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ugozoamaka/react-tutorial/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ugozoamaka/react-tutorial/static/js/main.5da027bc.chunk.js",
+    "main.js.map": "/ugozoamaka/react-tutorial/static/js/main.5da027bc.chunk.js.map",
+    "runtime-main.js": "/ugozoamaka/react-tutorial/static/js/runtime-main.8158a65c.js",
+    "runtime-main.js.map": "/ugozoamaka/react-tutorial/static/js/runtime-main.8158a65c.js.map",
+    "static/css/2.150d169a.chunk.css": "/ugozoamaka/react-tutorial/static/css/2.150d169a.chunk.css",
+    "static/js/2.14c844e3.chunk.js": "/ugozoamaka/react-tutorial/static/js/2.14c844e3.chunk.js",
+    "static/js/2.14c844e3.chunk.js.map": "/ugozoamaka/react-tutorial/static/js/2.14c844e3.chunk.js.map",
+    "static/js/3.6f46be8e.chunk.js": "/ugozoamaka/react-tutorial/static/js/3.6f46be8e.chunk.js",
+    "static/js/3.6f46be8e.chunk.js.map": "/ugozoamaka/react-tutorial/static/js/3.6f46be8e.chunk.js.map",
+    "index.html": "/ugozoamaka/react-tutorial/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ugozoamaka/react-tutorial/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ugozoamaka/react-tutorial/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.14c844e3.chunk.js.LICENSE.txt": "/ugozoamaka/react-tutorial/static/js/2.14c844e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8158a65c.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.14c844e3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5da027bc.chunk.js"
+  ]
+}
